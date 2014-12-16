@@ -160,6 +160,8 @@ static void init() {
   });
   
   // show the Window on the watch, with animated=true
+  window_set_fullscreen(s_main_window, true);
+  window_set_background_color(s_main_window, GColorBlack);
   window_stack_push(s_main_window, true);
 }
 
