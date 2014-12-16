@@ -9,7 +9,7 @@ var xhrRequest = function (url, type, callback) {
 
 function locationSuccess(pos) {
   // Construct URL
-  var url = "http://api.openweathermap.org/data/2.5/weather?units=imperial&lat=" +
+  var url = "http://api.openweathermap.org/data/2.5/weather?type=accurate&units=imperial&lat=" +
       pos.coords.latitude + "&lon=" + pos.coords.longitude;
   console.log("API url: " + url);
   
