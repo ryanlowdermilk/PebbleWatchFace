@@ -1,4 +1,4 @@
 PebbleWatchFace
 ===============
 
-A simple, clean watch face that shows time, date and weather
+A simple, clean watchface that shows time, date and weather
