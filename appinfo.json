@@ -1,0 +1,19 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "Ryan Lowdermilk",
+    "longName": "My First Watchface",
+    "projectType": "native",
+    "resources": {
+        "media": []
+    },
+    "shortName": "My First Watchface",
+    "uuid": "3e2a34bf-b770-42a8-b499-ee1734702aaf",
+    "versionCode": 1,
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": true
+    }
+}
